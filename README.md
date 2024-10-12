@@ -30,7 +30,7 @@ EN: GoodbyeDPI was not working on some ISPs in Turkey. Also, even if it was inst
 
 5- Right click on the shortcut and go to properties. Press the “Advanced” button on the shortcut tab and activate “Run as administrator” from the menu that opens in front of you.
 
-# Original Authors
+# Original Projects
 GoodbyeDPI: https://github.com/ValdikSS/GoodbyeDPI
 
 WinDivert: https://github.com/basil00/WinDivert
