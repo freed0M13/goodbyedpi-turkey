@@ -29,5 +29,3 @@ EN: GoodbyeDPI was not working on some ISPs in Turkey. Also, even if it was inst
 4- Create a shortcut to the .cmd file you ran, open run and navigate to “shell:startup”. Put the shortcut in the opened folder. 
 
 5- Right click on the shortcut and go to properties. Press the “Advanced” button on the shortcut tab and activate “Run as administrator” from the menu that opens in front of you.
-
-Translated with DeepL.com (free version)
