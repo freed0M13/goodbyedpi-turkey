@@ -17,7 +17,7 @@ netsh interface ipv4 add dns "Ethernet" static 1.0.0.1 index=2
 
 sc stop "GoodbyeDPI"
 sc delete "GoodbyeDPI"
-sc create "GoodbyeDPI" binPath= "\"%CD%\%_arch%\goodbyedpi.exe\" --set-ttl 3 start= auto
+sc create "GoodbyeDPI" binPath= "\"%CD%\%_arch%\goodbyedpi.exe\" --set-ttl 3 start = auto
 sc description "GoodbyeDPI" "Pasif DPI Engelleyici | Turkiye ISPlerine Gore Ayarlanmis Halde"
 sc start "GoodbyeDPI"
 
